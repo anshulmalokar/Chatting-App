@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754422125719",
+    "project_id": "budchat-9182a",
+    "storage_bucket": "budchat-9182a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754422125719:android:c6e5280cafba30b20805d2",
+        "android_client_info": {
+          "package_name": "com.anshul.budchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754422125719-0flkbkrnaihvs49151r94n9r5q0aaqa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvs3lW7Vmxc6V0S01xkFAobDbAd7NTgMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754422125719-0flkbkrnaihvs49151r94n9r5q0aaqa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
